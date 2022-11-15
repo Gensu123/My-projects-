@@ -1,8 +1,8 @@
 {
     "java.project.sourcePaths": [
-        "TimeAdder.java",
+        "TimeAdder",
         "PasswordGenerater.java",
         "Hangman",
-        "TimeAdder"
+        "LotteryNumber.java"
     ]
 }
